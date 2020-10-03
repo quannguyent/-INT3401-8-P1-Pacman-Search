@@ -1,4 +1,9 @@
 # -INT3401-8-P1-Pacman-Search
+
+<h1> Project 1: Pacman Search <h1>
+Họ và Tên: Nguyễn Thế Quân
+MSSV: 18021030
+  
 Mô tả thuật toán P1
 
 [Q1, Q2, Q3, Q4]
