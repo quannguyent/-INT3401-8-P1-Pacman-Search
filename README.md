@@ -1,6 +1,6 @@
 # -INT3401-8-P1-Pacman-Search
 
-<h1> Project 1: Pacman Search <h1>
+Project 1: Pacman Search
 Họ và Tên: Nguyễn Thế Quân
 MSSV: 18021030
   
